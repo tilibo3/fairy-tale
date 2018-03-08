@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 0306e5815f8fe754ea714745eb8f52f5
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: gear16
+    100004: gear17
+    100006: gear18
+    100008: gear19
+    100010: pCylinder214
+    100012: pCylinder214 1
+    100014: pCylinder214 2
+    100016: pCylinder214 3
+    100018: pCylinder215
+    100020: pCylinder215 1
+    100022: pCylinder215 2
+    100024: pCylinder215 3
+    100026: pCylinder216
+    100028: pCylinder216 1
+    100030: pCylinder216 2
+    100032: pCylinder216 3
+    100034: pCylinder217
+    100036: pCylinder217 1
+    100038: pCylinder217 2
+    100040: pCylinder217 3
+    100042: pCylinder218
+    100044: pCylinder218 1
+    100046: pCylinder218 2
+    100048: pCylinder218 3
+    100050: pCylinder219
+    100052: pCylinder219 1
+    100054: pCylinder219 2
+    100056: pCylinder219 3
+    100058: pCylinder220
+    100060: pCylinder220 1
+    100062: pCylinder220 2
+    100064: pCylinder220 3
+    100066: pPipe2
+    400000: //RootNode
+    400002: gear16
+    400004: gear17
+    400006: gear18
+    400008: gear19
+    400010: pCylinder214
+    400012: pCylinder214 1
+    400014: pCylinder214 2
+    400016: pCylinder214 3
+    400018: pCylinder215
+    400020: pCylinder215 1
+    400022: pCylinder215 2
+    400024: pCylinder215 3
+    400026: pCylinder216
+    400028: pCylinder216 1
+    400030: pCylinder216 2
+    400032: pCylinder216 3
+    400034: pCylinder217
+    400036: pCylinder217 1
+    400038: pCylinder217 2
+    400040: pCylinder217 3
+    400042: pCylinder218
+    400044: pCylinder218 1
+    400046: pCylinder218 2
+    400048: pCylinder218 3
+    400050: pCylinder219
+    400052: pCylinder219 1
+    400054: pCylinder219 2
+    400056: pCylinder219 3
+    400058: pCylinder220
+    400060: pCylinder220 1
+    400062: pCylinder220 2
+    400064: pCylinder220 3
+    400066: pPipe2
+    2300000: pCylinder214
+    2300002: pCylinder214 1
+    2300004: pCylinder214 2
+    2300006: pCylinder214 3
+    2300008: pCylinder215
+    2300010: pCylinder215 1
+    2300012: pCylinder215 2
+    2300014: pCylinder215 3
+    2300016: pCylinder216
+    2300018: pCylinder216 1
+    2300020: pCylinder216 2
+    2300022: pCylinder216 3
+    2300024: pCylinder217
+    2300026: pCylinder217 1
+    2300028: pCylinder217 2
+    2300030: pCylinder217 3
+    2300032: pCylinder218
+    2300034: pCylinder218 1
+    2300036: pCylinder218 2
+    2300038: pCylinder218 3
+    2300040: pCylinder219
+    2300042: pCylinder219 1
+    2300044: pCylinder219 2
+    2300046: pCylinder219 3
+    2300048: pCylinder220
+    2300050: pCylinder220 1
+    2300052: pCylinder220 2
+    2300054: pCylinder220 3
+    2300056: pPipe2
+    3300000: pCylinder214
+    3300002: pCylinder214 1
+    3300004: pCylinder214 2
+    3300006: pCylinder214 3
+    3300008: pCylinder215
+    3300010: pCylinder215 1
+    3300012: pCylinder215 2
+    3300014: pCylinder215 3
+    3300016: pCylinder216
+    3300018: pCylinder216 1
+    3300020: pCylinder216 2
+    3300022: pCylinder216 3
+    3300024: pCylinder217
+    3300026: pCylinder217 1
+    3300028: pCylinder217 2
+    3300030: pCylinder217 3
+    3300032: pCylinder218
+    3300034: pCylinder218 1
+    3300036: pCylinder218 2
+    3300038: pCylinder218 3
+    3300040: pCylinder219
+    3300042: pCylinder219 1
+    3300044: pCylinder219 2
+    3300046: pCylinder219 3
+    3300048: pCylinder220
+    3300050: pCylinder220 1
+    3300052: pCylinder220 2
+    3300054: pCylinder220 3
+    3300056: pPipe2
+    4300000: pCylinder214
+    4300002: pCylinder215
+    4300004: pCylinder216
+    4300006: pCylinder217
+    4300008: pCylinder218
+    4300010: pCylinder219
+    4300012: pCylinder220
+    4300014: pCylinder214
+    4300016: pCylinder215
+    4300018: pCylinder216
+    4300020: pCylinder217
+    4300022: pCylinder218
+    4300024: pCylinder219
+    4300026: pCylinder220
+    4300028: pCylinder214
+    4300030: pCylinder215
+    4300032: pCylinder216
+    4300034: pCylinder217
+    4300036: pCylinder218
+    4300038: pCylinder219
+    4300040: pCylinder220
+    4300042: pCylinder214
+    4300044: pCylinder215
+    4300046: pCylinder216
+    4300048: pCylinder217
+    4300050: pCylinder218
+    4300052: pCylinder219
+    4300054: pCylinder220
+    4300056: pPipe2
+    7400000: con2
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: con2
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 144
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: gear16
+        weight: 1
+      - path: gear16/pCylinder214
+        weight: 1
+      - path: gear16/pCylinder215
+        weight: 1
+      - path: gear16/pCylinder216
+        weight: 1
+      - path: gear16/pCylinder217
+        weight: 1
+      - path: gear16/pCylinder218
+        weight: 1
+      - path: gear16/pCylinder219
+        weight: 1
+      - path: gear16/pCylinder220
+        weight: 1
+      - path: gear17
+        weight: 1
+      - path: gear17/pCylinder214 1
+        weight: 1
+      - path: gear17/pCylinder215 1
+        weight: 1
+      - path: gear17/pCylinder216 1
+        weight: 1
+      - path: gear17/pCylinder217 1
+        weight: 1
+      - path: gear17/pCylinder218 1
+        weight: 1
+      - path: gear17/pCylinder219 1
+        weight: 1
+      - path: gear17/pCylinder220 1
+        weight: 1
+      - path: gear18
+        weight: 1
+      - path: gear18/pCylinder214 2
+        weight: 1
+      - path: gear18/pCylinder215 2
+        weight: 1
+      - path: gear18/pCylinder216 2
+        weight: 1
+      - path: gear18/pCylinder217 2
+        weight: 1
+      - path: gear18/pCylinder218 2
+        weight: 1
+      - path: gear18/pCylinder219 2
+        weight: 1
+      - path: gear18/pCylinder220 2
+        weight: 1
+      - path: gear19
+        weight: 1
+      - path: gear19/pCylinder214 3
+        weight: 1
+      - path: gear19/pCylinder215 3
+        weight: 1
+      - path: gear19/pCylinder216 3
+        weight: 1
+      - path: gear19/pCylinder217 3
+        weight: 1
+      - path: gear19/pCylinder218 3
+        weight: 1
+      - path: gear19/pCylinder219 3
+        weight: 1
+      - path: gear19/pCylinder220 3
+        weight: 1
+      - path: pPipe2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

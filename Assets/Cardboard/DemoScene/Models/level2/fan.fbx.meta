@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 6a70bb3867cc3b84a9d56d0800d28666
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group5
+    100004: group6
+    100006: pCube88
+    100008: pCylinder203
+    100010: pCylinder203 1
+    100012: pCylinder204
+    100014: pCylinder204 1
+    100016: pCylinder205
+    100018: pCylinder205 1
+    100020: pSphere30
+    100022: pSphere31
+    100024: pSphere32
+    400000: //RootNode
+    400002: group5
+    400004: group6
+    400006: pCube88
+    400008: pCylinder203
+    400010: pCylinder203 1
+    400012: pCylinder204
+    400014: pCylinder204 1
+    400016: pCylinder205
+    400018: pCylinder205 1
+    400020: pSphere30
+    400022: pSphere31
+    400024: pSphere32
+    2300000: pCube88
+    2300002: pCylinder203
+    2300004: pCylinder203 1
+    2300006: pCylinder204
+    2300008: pCylinder204 1
+    2300010: pCylinder205
+    2300012: pCylinder205 1
+    2300014: pSphere30
+    2300016: pSphere31
+    2300018: pSphere32
+    3300000: pCube88
+    3300002: pCylinder203
+    3300004: pCylinder203 1
+    3300006: pCylinder204
+    3300008: pCylinder204 1
+    3300010: pCylinder205
+    3300012: pCylinder205 1
+    3300014: pSphere30
+    3300016: pSphere31
+    3300018: pSphere32
+    4300000: pCylinder203
+    4300002: pCylinder204
+    4300004: pCylinder205
+    4300006: pCylinder203
+    4300008: pCylinder204
+    4300010: pCylinder205
+    4300012: pSphere30
+    4300014: pSphere31
+    4300016: pSphere32
+    4300018: pCube88
+    7400000: fanrevovle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fanrevovle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 36
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group5/pCylinder203
+        weight: 1
+      - path: group5/pCylinder204
+        weight: 1
+      - path: group5/pCylinder205
+        weight: 1
+      - path: group6
+        weight: 1
+      - path: group6/pCylinder203 1
+        weight: 1
+      - path: group6/pCylinder204 1
+        weight: 1
+      - path: group6/pCylinder205 1
+        weight: 1
+      - path: pCube88
+        weight: 1
+      - path: pSphere30
+        weight: 1
+      - path: pSphere31
+        weight: 1
+      - path: pSphere32
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
