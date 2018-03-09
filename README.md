@@ -5,4 +5,4 @@
 
 Download APK to try first! 
 
-![]();
+![](![](https://raw.githubusercontent.com/tilibo3/fairy-tale/master/fairy-tale-l.png));
